@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Speaking Coach",
+  "description": "An interactive IELTS speaking practice tool with a video camera recorder, live conversational prompt overlays from an AI host, and comprehensive IELTS-aligned band scoring with red-highlighted grammatical corrections.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
